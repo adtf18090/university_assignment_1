@@ -1,2 +1,9 @@
-# university_assignment_1
-For my university's python programming class, Final Exam Substitute Assignment
+'''
+안녕하세요
+A 맞게 해주세요 ㅠㅠㅠㅠㅠ
+'''
+
+음
+
+여기다 뭐 작성해야하지
+
