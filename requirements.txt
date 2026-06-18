@@ -1,8 +1,0 @@
-customtkinter
-yfinance
-feedparser
-pandas
-numpy
-matplotlib
-pytest
-pycodestyle
